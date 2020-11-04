@@ -23,3 +23,7 @@
 6.UI แสดง Profile  จากการลงทะเบียน    
 
 [![6.jpg](https://i.postimg.cc/fR7C0LGq/6.jpg)](https://postimg.cc/QFt12Xxc)
+
+
+
+****คู่มือแนะนำการใช้งาน  https://www.youtube.com/watch?v=KsL5XKIQ7eQ&feature=youtu.be&ab_channel=basbas
